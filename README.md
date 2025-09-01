@@ -1,6 +1,6 @@
 # luisr-1
 
-<img src="images/me.jpg" align="right" width="60" />
+<img src="images/me.jpg" align="right" width="180" />
 
 Hi, there! My name is Luis. I'm currently a Computer Science student at UFABC. My hobbies are listening to music and traveling wherever I can afford to go (I need money!). I primarily focus on Backend development (Web APIs), and I'm currently expanding my knowledge into System Programming.
 
@@ -8,13 +8,13 @@ Hi, there! My name is Luis. I'm currently a Computer Science student at UFABC. M
 
 **My stack:**
 
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" width="40" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="40" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" width="40" /></a>
-<a href="https://www.java.com/" title="Java"><img src="icons/java.png" width="40" /></a>
-<a href="https://www.postgresql.org/" title="Postgres SQL"><img src="icons/postgresql.png" width="40" /></a>
-<a href="https://www.c-language.org/" title="C"><img src="icons/c.png" width="40" /></a>
-<a href="https://www.ruby-lang.org" title="Ruby"><img src="icons/ruby.png" width="40" /></a>
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" width="100" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="100" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" width="100" /></a>
+<a href="https://www.java.com/" title="Java"><img src="icons/java.png" width="100" /></a>
+<a href="https://www.postgresql.org/" title="Postgres SQL"><img src="icons/postgresql.png" width="100" /></a>
+<a href="https://www.c-language.org/" title="C"><img src="icons/c.png" width="100" /></a>
+<a href="https://www.ruby-lang.org" title="Ruby"><img src="icons/ruby.png" width="100" /></a>
 
 ---
 
