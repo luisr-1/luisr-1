@@ -1,37 +1,25 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisr-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# luisr-1
 
-###
+<img src="images/me.jpg" align="right" />
 
-<br clear="both">
+Hi, there! My name is Luis. I'm currently a Computer Science student at UFABC. My hobbies are listening to music and traveling wherever I can afford to go (I need money!). I primarily focus on Backend development (Web APIs), and I'm currently expanding my knowledge into System Programming.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+**My stack:**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/luis-rodrigues-415386190/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://www.java.com/" title="Java"><img src="icons/java.png" /></a>
+<a href="https://www.postgresql.org/" title="Postgres SQL"><img src="icons/postgresql.png" /></a>
+<a href="https://www.c-language.org/" title="C"><img src="icons/c.png" /></a>
+<a href="https://www.ruby-lang.org" title="Ruby"><img src="icons/ruby.png" /></a>
 
+---
 
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=luisr-1&theme=catppuccin-mocha)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
+---
+
+![Luis github stats](https://github-readme-stats.vercel.app/api?username=luisr-1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
