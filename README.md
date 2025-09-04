@@ -16,7 +16,7 @@
 
 ### My Stack:
 
-<section style="display: flex; flex-direction: column; border: 1px solid black; padding: 10px;">
+<div align="center">
     <a href="https://golang.org/" title="Go"><img src="icons/golang.png" alt="Go logo" width="40" style="vertical-align:middle;" /></a>&nbsp;
     <a href="https://www.python.org/" title="Python"><img src="icons/python.png" alt="Python logo" width="40" style="vertical-align:middle;" /></a>&nbsp;
     <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" alt="Docker logo" width="40" style="vertical-align:middle;" /></a>&nbsp;
@@ -24,7 +24,7 @@
     <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/postgresql.png" alt="PostgreSQL logo" width="40" style="vertical-align:middle;" /></a>&nbsp;
     <a href="https://en.cppreference.com/w/c/language" title="C"><img src="icons/c.png" alt="C language logo" width="40" style="vertical-align:middle;" /></a>&nbsp;
     <a href="https://www.ruby-lang.org/" title="Ruby"><img src="icons/ruby.png" alt="Ruby logo" width="40" style="vertical-align:middle;" /></a>
-</section>
+</div>
 
 ---
 
